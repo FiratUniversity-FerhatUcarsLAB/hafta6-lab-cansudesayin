@@ -1,7 +1,8 @@
 /**
  * Ad Soyad: Cansude Sayın
  * Öğrenci No: 250541096
- * Proje: RestoranSipariş
+ * Proje: RestoranSipariş, Kullanıcının seçtiği yemek, içecek ve tatlılara göre sipariş tutarını hesaplar; combo menü, öğrenci indirimi ve Happy Hour gibi özel durumları değerlendirerek 
+ toplam indirim, bahşiş ve ödenecek nihai tutarı belirler.
  * Tarih: 27.11.2025
  */
 import java.util.Scanner;
@@ -219,3 +220,4 @@ public class RestoranSiparis {
         input.close();
     }
 }
+
