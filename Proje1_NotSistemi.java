@@ -1,7 +1,8 @@
 /**
  * Ad Soyad: Cansude Sayın
  * Öğrenci No: 250541096
- * Proje: Not Sistemi
+ * Proje: Not Sistemi, öğrencinin sınav ve ödev notlarına göre ağırlıklı ortalamasını hesaplayarak
+ geçme durumu, harf notu, onur listesi uygunluğu ve bütünleme hakkını otomatik olarak belirleyen bir değerlendirme programıdır.
  * Tarih: 27.11.2025
  */
 import java.util.Scanner;
@@ -87,3 +88,4 @@ public class OgrenciNot {
     }
 
 }
+
