@@ -1,7 +1,8 @@
 /**
  * Ad Soyad: Cansude Sayın
  * Öğrenci No: 250541096
- * Proje: Sinema Bileti
+ * Proje: Sinema Bileti, uygulaması kullanıcının seçtiği gün, saat, yaş, meslek ve film formatına göre temel bileti belirleyip;
+ hafta sonu, matine, öğrenci indirimi, 65+ indirimleri ve format ek ücretlerini kullanarak dinamik bilet fiyatı hesaplayan bir sistemdir.
  * Tarih: 27.11.2025
  */
 import java.util.Scanner;
@@ -224,3 +225,4 @@ public class SinemaBileti {
     }
 
 }
+
